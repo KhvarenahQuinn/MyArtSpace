@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Art Space</string>
+    <string name="ATS1">Air Terjun Sekumpul</string>
+    <string name="ATS2">Desa Sekumpul, Kecamatan Sawan, Kabupaten Buleleng, Bali</string>
+    <string name="GB1">Gunung Bromo</string>
+    <string name="GB2">Kabutapaten Probolinggo, Jawa Timur</string>
+    <string name="LIM1">Hutan Pinus Limpakuwus</string>
+    <string name="LIM2">Desa Limpakuwus, Kec. Sumbang, Kabupaten Banyumas, Jawa Tengah</string>
+    <string name="LB1">Labuan Bajo</string>
+    <string name="LB2">Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur</string>
+    <string name="NP1">Nusa Penida</string>
+    <string name="NP2">Kabupaten Klungkung, Bali</string>
+    <string name="PL1">Pantai Lumpuuk</string>
+    <string name="PL2">Kecamatan Lhoknga, Aceh Besar, Aceh</string>
+    <string name="TG1">Tegallalang</string>
+    <string name="TG2">Kabupaten Gianyar, Bali</string>
+
+</resources>
